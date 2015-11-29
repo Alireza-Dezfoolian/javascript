@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="library.js"></script>
+	<script>
+	window.onload = function(){
+	  console.log($("div").attr('test', 'testing').html());
+	  $('div').on('mouseenter', function(e) {
+          console.log(e);
+	  })
+	}
+	</script>
+</head>
+<body>
+	<div title="alireza">hi</div>
+</body>
+</html>
