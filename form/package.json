@@ -1,0 +1,15 @@
+{
+  "name": "form-filler",
+  "version": "1.0.0",
+  "description": "form filler javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form",
+    "filler"
+  ],
+  "author": "Alireza Dezfoolian",
+  "license": "ISC"
+}
